@@ -1,0 +1,7 @@
+numpy
+matplotlib
+streamlit
+Pillow
+torch
+scikit-learn
+pytest
